@@ -1,0 +1,12 @@
+# Trained model (regenerate with: python train_model.py)
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Local editor/agent config
+.claude/
